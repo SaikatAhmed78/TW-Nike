@@ -1,11 +1,11 @@
-import Hero from "./Section/Hero";
-import PopularProducts from "./Section/PopularProducts";
-import SuparQuality from "./Section/SuparQuality";
-import Services from "./Section/Services";
-import SpecialOffer from "./Section/SpecialOffer";
-import CustomerReviews from "./Section/CustomerReviews";
-import Subscribe from "./Section/Subscribe";
-import Footer from "./Section/Footer";
+import Hero from "./Hero"
+import PopularProducts from "./PopularProducts";
+import SuparQuality from "./SuparQuality";
+import Services from "./Services";
+import SpecialOffer from "./SpecialOffer";
+import CustomerReviews from "./CustomerReviews";
+import Subscribe from "./Subscribe";
+import Footer from "./Footer";
 
 export {
     Hero,
